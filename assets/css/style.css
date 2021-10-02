@@ -17,14 +17,19 @@ li {
     color: green;
 }
 
-img {
+/* img {
     width: 100%;
     height: auto;
     max-width: 100%;
-}
+} */
 
 main {
     margin: 0 20%;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
 }
 
 nav {
