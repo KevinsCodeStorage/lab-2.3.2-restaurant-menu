@@ -27,6 +27,11 @@ main {
     margin: 0 20%;
 }
 
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
 nav {
     background-color: beige;
     padding: 10px;
